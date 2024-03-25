@@ -6,5 +6,6 @@
 
 3] R. Parlika, Mustafid and B. Rahmat, "Minimum, Maximum, and Average Implementation of Patterned Datasets in Mapping Cryptocurrency Fluctuation Patterns", JOIV : International Journal on Informatics Visualization, Vol 8, No 1 (2024), ISSN / E-ISSN : 2549-9610 / 2549-9904, 
 Url : https://joiv.org/index.php/joiv/article/view/1543, DOI: http://dx.doi.org/10.62527/joiv.8.1.1543, 
+Download : https://joiv.org/index.php/joiv/article/view/1543/888
 Schimago : https://www.scimagojr.com/journalsearch.php?q=21101033322&tip=sid&exact=no
 Scopus JOIV : https://www.scopus.com/sourceid/21101033322?origin=resultslist
