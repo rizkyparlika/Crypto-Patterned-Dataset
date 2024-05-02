@@ -12,7 +12,8 @@ Download : https://bit.ly/joiv012024 ---> https://joiv.org/index.php/joiv/articl
 Schimago : https://www.scimagojr.com/journalsearch.php?q=21101033322&tip=sid&exact=no,
 Scopus JOIV : https://www.scopus.com/sourceid/21101033322?origin=resultslist,
 
-Connected : "patterned datasets cryptocurrency" 
+Connected "patterned datasets cryptocurrency" :
+
 --> https://www.connectedpapers.com/search?q=patterned%20datasets%20cryptocurrency
 
 --> https://bit.ly/pdcriz
