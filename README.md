@@ -14,7 +14,9 @@ Scopus JOIV : https://www.scopus.com/sourceid/21101033322?origin=resultslist,
 
 Connected : "patterned datasets cryptocurrency" 
 --> https://www.connectedpapers.com/search?q=patterned%20datasets%20cryptocurrency
---> bit.ly/pdcriz
 
-Contact (WA) : bit.ly/tanyarizky
+--> https://bit.ly/pdcriz
+
+Contact (WA)  : https://bit.ly/tanyarizky
+
 Contact (email) : rizky.parlika@gmail.com
