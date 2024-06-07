@@ -16,6 +16,8 @@ B. Scopus indexed proceedings
 
 3] R. Parlika, Mustafid and B. Rahmat, "The next cryptocurrency price movement prediction application uses patterned datasets", AIP Conf. Proc. 3116, 030003 (2024),
 download : https://bit.ly/proceeding3, https://doi.org/10.1063/5.0210203
+Scopus : https://bit.ly/p2_aip
+
 
 C. Proceedings are not indexed by Scopus
 
