@@ -19,9 +19,9 @@ download : https://bit.ly/proceeding3, https://doi.org/10.1063/5.0210203
 Scopus : https://bit.ly/p1_aip
 
 
-C. Proceedings are not indexed by Scopus
+C. Journal are not indexed by Scopus
 
-4] Rizky Parlika, Mustafid, and Basuki Rahmat, “Use of Patterned Datasets (Minimum and Maximum) to predict Bitcoin and Ethereum price movements”, Technium, vol. 16, no. 1, pp. 137–142, Oct. 2023. https://techniumscience.com/index.php/technium/article/view/9972
+1] Rizky Parlika, Mustafid, and Basuki Rahmat, “Use of Patterned Datasets (Minimum and Maximum) to predict Bitcoin and Ethereum price movements”, Technium, vol. 16, no. 1, pp. 137–142, Oct. 2023. https://techniumscience.com/index.php/technium/article/view/9972
 Connected "patterned datasets cryptocurrency" :
 
 --> https://www.connectedpapers.com/search?q=patterned%20datasets%20cryptocurrency
